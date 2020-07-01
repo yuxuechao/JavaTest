@@ -7,13 +7,13 @@
 employee.jsp在src/main/webapp/WEB-INF下
 
 ## 1.分页和条件（模糊）查询
-http://file.codingvision.cn/github/query.gif
+![avatar](http://file.codingvision.cn/github/query.gif)
 
 ## 2.修改一行数据
-http://file.codingvision.cn/github/update.gif
+![avatar](http://file.codingvision.cn/github/update.gif)
 
 ## 3.新增一行数据
-http://file.codingvision.cn/github/add.gif
+![avatar](http://file.codingvision.cn/github/add.gif)
 
 ## 4.删除一行和多行数据
-http://file.codingvision.cn/github/delete.gif
+![avatar](http://file.codingvision.cn/github/delete.gif)
