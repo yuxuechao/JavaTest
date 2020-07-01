@@ -1,10 +1,14 @@
 # Java基础测试 实战题001
 ## 按要求完成对表格的增删改查功能
-项目为springboot + mybatis + mysql + jsp
+## 项目为springboot + mybatis + mysql + jsp
 
-访问http://localhost:8080/employee进行操作
-配置文件application.yml请勿修改
-employee.jsp在src/main/webapp/WEB-INF下
+## 访问http://localhost:8080/employee进行操作
+## 配置文件application.yml请勿修改
+## employee.jsp在src/main/webapp/WEB-INF下
+
+## 代码是不完全并有bug的，但是很简单，请修改能实现如下功能发给我
+## 代码是不完全并有bug的，但是很简单，请修改能实现如下功能发给我
+## 代码是不完全并有bug的，但是很简单，请修改能实现如下功能发给我
 
 ## 1.分页和条件（模糊）查询
 ![1](http://file.codingvision.cn/github/query.gif)
