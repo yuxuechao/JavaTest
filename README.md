@@ -7,16 +7,16 @@
 ## employee.jsp在src/main/webapp/WEB-INF下
 
 ## 代码是不完全并有bug的，请修改能实现如下功能发给我
-
+## Talk is cheap,show me your code!
 
 ## 1.分页和条件（模糊）查询
-![1](http://file.codingvision.cn/github/query.gif)
+![1](http://file.yuxuechao.com/github/query.gif)
 
 ## 2.修改一行数据
-![2](http://file.codingvision.cn/github/update.gif)
+![2](http://file.yuxuechao.com/github/update.gif)
 
 ## 3.新增一行数据
-![3](http://file.codingvision.cn/github/add.gif)
+![3](http://file.yuxuechao.com/github/add.gif)
 
 ## 4.删除一行和多行数据
-![4](http://file.codingvision.cn/github/delete.gif)
+![4](http://file.yuxuechao.com/github/delete.gif)
