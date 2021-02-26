@@ -1,8 +1,9 @@
 # Java基础测试 实战题001
 ## 按要求完成对表格的增删改查功能
 ## 项目使用springboot + mybatis + mysql + jsp
+下载慢可以试试 https://gitee.com/ShangHaiGoodMan/JavaTest
 
-## 访问http://localhost:8080/employee进行操作
+## 访问 http://localhost:8080/employee  进行操作
 ## 配置文件application.yml请勿修改
 ## employee.jsp在src/main/webapp/WEB-INF下
 
