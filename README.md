@@ -11,13 +11,13 @@
 ## Talk is cheap,show me your code!
 
 ## 1.分页和条件（模糊）查询
-![1](http://file.yuxuechao.com/github/query.gif)
+![1](https://thebestadmin.oss-cn-shanghai.aliyuncs.com/github/query.gif)
 
 ## 2.修改一行数据
-![2](http://file.yuxuechao.com/github/update.gif)
+![2](https://thebestadmin.oss-cn-shanghai.aliyuncs.com/github/update.gif)
 
 ## 3.新增一行数据
-![3](http://file.yuxuechao.com/github/add.gif)
+![3](https://thebestadmin.oss-cn-shanghai.aliyuncs.com/github/add.gif)
 
 ## 4.删除一行和多行数据
-![4](http://file.yuxuechao.com/github/delete.gif)
+![4](https://thebestadmin.oss-cn-shanghai.aliyuncs.com/github/delete.gif)
